@@ -22,5 +22,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alands1999&layout=compact)
 
-Formado em Análise e Desenvolvimento de Sistemas. Durante a graduação e diversos outros cursos, desenvolvi diversos projétos praticos para aprofundar meus conhecimentos acadêmicos. Tenho interesse em aprendizado contínuo e na aplicação prática de boas práticas de tecnologia ao longo da minha trajetória profissional.
+Formado em Análise e Desenvolvimento de Sistemas. Durante a graduação e diversos outros cursos, desenvolvi diversos projetos praticos para aprofundar meus conhecimentos acadêmicos. Tenho interesse em aprendizado contínuo e na aplicação prática de boas práticas de tecnologia ao longo da minha trajetória profissional.
 
