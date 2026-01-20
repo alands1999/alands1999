@@ -22,5 +22,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alands1999&layout=compact)
 
-Estou cursando Análise e Desenvolvimento de Sistemas. Nos últimos dois anos, venho explorando o universo da programação e ampliando meus conhecimentos com cada nova tecnologia. Sou apaixonado por criar soluções e transformar ideias em projetos práticos.
+Formado em Análise e Desenvolvimento de Sistemas. Durante a graduação e diversos outros cursos, desenvolvi diversos projétos praticos para aprofundar meus conhecimentos acadêmicos. Tenho interesse em aprendizado contínuo e na aplicação prática de boas práticas de tecnologia ao longo da minha trajetória profissional.
 
